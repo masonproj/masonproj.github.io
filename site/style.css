@@ -1,0 +1,48 @@
+/*3d3522-4a442d-386150-58b09c-caf7e2*/
+
+body {
+	overflow-x: hidden;
+}
+
+.section {
+}
+
+nav {
+	background-color: #3D3522;
+}
+
+#home {
+	background-color: #CAF7E2;
+}
+
+#projects {
+	background-color: #58B09C;
+}
+
+#about {
+	background-color: #386160;
+}
+
+footer {
+	background-color: #4A442D;
+	height: 20vh!important;
+}
+
+nav > ul {
+    text-align: right;
+    width: 100%;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+nav > li {
+    display:inline;
+}
+nav > ul a {
+    color: white;
+    padding: 0 10px;
+    text-decoration: none;
+}
+nav > ul a:hover {
+    color: #333;
+}
