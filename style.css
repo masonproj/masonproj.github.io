@@ -9,6 +9,7 @@ body {
 
 nav {
 	background-color: #3D3522;
+	z-index:1;
 }
 
 #home {
