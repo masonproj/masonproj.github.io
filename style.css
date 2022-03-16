@@ -31,19 +31,23 @@ footer {
 
 nav > ul {
     text-align: right;
-    width: 100%;
 	list-style: none;
-	margin: 0;
-	padding: 0;
 }
+
 nav > li {
     display:inline;
 }
+
 nav > ul a {
     color: white;
     padding: 0 10px;
     text-decoration: none;
 }
+
 nav > ul a:hover {
     color: #333;
+}
+
+.img-thumbnail {
+	background: transparent;
 }
